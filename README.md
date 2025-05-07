@@ -51,7 +51,7 @@ The following models were trained and evaluated:
 - **Optimize the payment experience** (shift from electronic checks)
 - **Use churn scores** for proactive retention campaigns
 
-See [Strategic Recommendations section](#Customer Churn Analysis and Prediction.ipynb) in the notebook for more detail.
+See [Strategic Recommendations section]in the notebook for more detail.
 
 
 

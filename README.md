@@ -17,7 +17,7 @@ The dataset used contains demographic and service-related information about tele
 - Google Colab
 
 
-## 🧠 Machine Learning Models
+##  Machine Learning Models
 
 The following models were trained and evaluated:
 - **Logistic Regression** *(Best overall performer)*
@@ -43,7 +43,7 @@ The following models were trained and evaluated:
 - `PaymentMethod_Electronic check`
 - Optional services like StreamingTV and PhoneService
 
-## 🧩 Strategic Recommendations
+## Strategic Recommendations
 
 - **Target new customers** with loyalty offers
 - **Improve fiber optic service** or provide affordable alternatives
@@ -51,7 +51,7 @@ The following models were trained and evaluated:
 - **Optimize the payment experience** (shift from electronic checks)
 - **Use churn scores** for proactive retention campaigns
 
-See [Strategic Recommendations section](#strategic-recommendations-based-on-predictive-analysis) in the notebook for more detail.
+See [Strategic Recommendations section](#Customer Churn Analysis and Prediction.ipynb) in the notebook for more detail.
 
 
 
